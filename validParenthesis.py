@@ -18,6 +18,3 @@ class Solution(object):
         if len(stack) != 0:
             return False
         return True
-
-
-        
